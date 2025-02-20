@@ -1,4 +1,4 @@
-web: gunicorn app:app
+web: gunicorn cv_web_app:app
 
 pip install gunicorn
 
